@@ -1,6 +1,9 @@
+
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=545a69&height=120&text=&animation=&fontColor=000000&fontSize=70" />
-    </div>    
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rampart+One&weight=300&size=30&duration=3000&color=1C1B249A&background=ACACAC4B&center=true&vCenter=true&width=435&height=65&lines=%E8%A6%8B%E3%81%AB%E6%9D%A5%E3%81%A6%E3%81%8F%E3%82%8C%E3%81%A6;%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99%EF%BC%81" alt="Typing SVG" /></a></div>
+  
+<div align= "center">
+    </div>  
     <div align= "center">  
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🤍紹介コメント🩶 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> ゆるく悩みがちなエンジニアです </div> 
